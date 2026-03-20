@@ -59,4 +59,31 @@ Even one bad day can mean:
 > 💸 Loss of essential daily earnings  
 
 There is **no system today that protects their income in real-time.**
+
+---
+## 💡 Our Solution
+
+**Carely** is a **parametric insurance platform** designed for gig workers.
+It:
+
+✅ Monitors real-world conditions
+✅ Detects disruptions automatically
+✅ Verifies income impact
+✅ Instantly provides payouts
+
+No paperwork.  
+No claims process.  
+Just **automatic support when needed.**
+
+---
+## 🔄 How It Works
+
+1. Worker enrolls in a simple insurance plan  
+2.  System tracks:
+   - Weather
+   - Traffic
+   - Platform status  
+3.  AI evaluates disruption risk  
+4.  Checks if deliveries actually dropped  
+5.  If yes → payout triggered instantly  
 ---
