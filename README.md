@@ -88,25 +88,25 @@ Just **automatic support when needed.**
 5.  If yes → payout triggered instantly
 
 ---
-##  Key Features
+## 🔑Key Features
 
-### Smart Risk Detection
+### ⭐Smart Risk Detection
 - AI analyzes real-time conditions
 - Calculates disruption risk
 
-### Context-Aware Decisions
+### ⭐Context-Aware Decisions
 - Different zones → different thresholds
 - Adapts to city and environment
 
-### Fair Trigger System
+### ⭐Fair Trigger System
 - Not just “bad weather”
 - Confirms **actual income drop**
 
-### Instant Payouts
+### ⭐Instant Payouts
 - No manual claims
 - Fully automated
 
-### Fraud Protection
+### ⭐Fraud Protection
 - Location checks
 - Activity validation
 - Data verification
