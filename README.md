@@ -85,5 +85,29 @@ Just **automatic support when needed.**
    - Platform status  
 3.  AI evaluates disruption risk  
 4.  Checks if deliveries actually dropped  
-5.  If yes → payout triggered instantly  
+5.  If yes → payout triggered instantly
+
+---
+##  Key Features
+
+### Smart Risk Detection
+- AI analyzes real-time conditions
+- Calculates disruption risk
+
+### Context-Aware Decisions
+- Different zones → different thresholds
+- Adapts to city and environment
+
+### Fair Trigger System
+- Not just “bad weather”
+- Confirms **actual income drop**
+
+### Instant Payouts
+- No manual claims
+- Fully automated
+
+### Fraud Protection
+- Location checks
+- Activity validation
+- Data verification
 ---
